@@ -1,4 +1,4 @@
-package klatikpetr.students;
+package klatikpetr.students.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
